@@ -105,10 +105,11 @@ projects:
     assignments:
       - title: ParkingVacancy
         link: "#hook"
-        tagline: "A simple Node web services making use of HKSAR Gov API to provide Real
-        time carpark spot vacancy data. Which hosted on AWS for public access at the moment."
+        tagline: "A simple Node web services making use of HKSAR Gov API to provide Real time carpark spot vacancy data. Which hosted on AWS for public access at the moment."
 
-     
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
