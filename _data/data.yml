@@ -104,11 +104,6 @@ projects:
         link: "#hook"
         tagline: A simple Node web services making use of HKSAR Gov API to provide Real time carpark spot vacancy data. Which hosted on AWS for public access at the moment.
 
-          Tech used:
-          - Programming: Node, Express, SQL-Builder
-          - AWS: EC2, RDS
-          - Storage: Postgre
-
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
