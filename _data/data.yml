@@ -77,10 +77,10 @@ experiences:
         web customer facing portal to trade securities, accounting and reporting system
         for both Acct && Financial Dept and office work automation.
 
-          "Tech used:"
-          - "Java Web Stack:" Tomcat App Server, Servlet programming, Spring, Struts
-          - "Core Java:" Concurrent package, Lambda funciton, Java8
-          - "Storage:" Oracle, Microsoft SQL
+          Tech used:
+          - Java Web Stack: Tomcat App Server, Servlet programming, Spring, Struts
+          - Core Java: Concurrent package, Lambda funciton, Java8
+          - Storage: Oracle, Microsoft SQL
 
 
     - role: Open Src contributor
