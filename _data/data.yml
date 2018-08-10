@@ -46,11 +46,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      A passionate develoepr who interested into varies of server-side technology. Most focus on
+      A passionate develoepr who interested on varies of server-side technology. Most focus on
       Java web stack on daily 9-6 job, occasional blogger about Latest Java Trend, open source 
       contributor around Apache Java project. 
 
-      Explorer of othe server-side language, capable to build cloud ready and scable Restful solution
+      Explorer of other server-side language, capable to build cloud ready and scable Restful solution
       upon language like node, GoLang. Some of the side projects has listed under projects section.   
 
 education:
@@ -100,7 +100,7 @@ projects:
 
     assignments:
       - title: ParkingVacancy
-        link: "#hook"
+        link: "https://github.com/HiuKwok/KowloonParkingVacancy_Backend"
         tagline: A simple Node web services making use of HKSAR Gov API to provide Real time carpark spot vacancy data. Which hosted on AWS for public access at the moment.
 
 publications:
@@ -132,9 +132,6 @@ skills:
 
       - name: Javascript & Node
         level: 70%
-
-      - name: Angular
-        level: 98%
 
       - name: GoLang
         level: 30%
