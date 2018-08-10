@@ -69,26 +69,23 @@ education:
           - Bullet point 
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Engineer
+      time: 2017 - 2018
+      company: Monex Boom Securities Limited
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Responible in-house Java based system enhencement and maintaince which include 
+        web customer facing portal to trade securities, accounting and reporting system
+        for both Acct && Financial Dept and office work automation.
 
-          - Bullet point
-          - Bullet point 
+          "Tech used:"
+          - "Java Web Stack:" Tomcat App Server, Servlet programming, Spring, Struts
+          - "Core Java:" Concurrent package, Lambda funciton, Java8
+          - "Storage:" Oracle, Microsoft SQL
+
 
     - role: Open Src contributor
       time: 2017 - Present
-      company: N/A
+      company: 
       details: |
         Working on mutiple project that simply interested me. Popular Java
         framework and lib like? RxJava, commonmark and Apache Common... 
